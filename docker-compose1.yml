@@ -45,7 +45,7 @@ networks:
   kafkanet:
     driver: bridge
 
-# comando de ejecucucion
+# comando de ejecucion
 # docker compose -f docker-compose2.yml up -d
 
 # si hay cambios
